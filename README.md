@@ -24,7 +24,7 @@ yt-dashboard/
 ├── utils/
 │   ├── styles.py           # CSS global inyectado en Streamlit
 │   ├── charts.py           # Helpers de Plotly con tema oscuro
-│   └── data_loader.py      # Lógica de carga: S3 → local → simulado
+│   └── data_loader.py      # Lógica de carga: S3 → local → Real
 └── data/                   # (Opcional) JSONs locales para pruebas
 ```
 
